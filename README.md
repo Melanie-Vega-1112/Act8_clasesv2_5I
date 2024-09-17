@@ -12,6 +12,7 @@
 - ![image](https://github.com/user-attachments/assets/2b8f181f-ed5a-438a-8b8f-e05202165cac)
 ## Tuplas, Conjuntos y Diccionarios
 - codigo
-- ![image](https://github.com/user-attachments/assets/bb4dcb19-1642-4eb3-a413-8c54d108dd33)
+- ![image](https://github.com/user-attachments/assets/bf371eb0-79f8-4470-a962-a6d0b02feedc)
 - resultado
-- ![image](https://github.com/user-attachments/assets/894abbb3-4f62-4ac8-9856-29db6508cb27)
+- ![image](https://github.com/user-attachments/assets/0545cc52-151d-4263-b384-a9c2bcc72017)
+
